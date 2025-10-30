@@ -1,0 +1,46 @@
+.services1 {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 0px;
+}
+.services1 .service-item1 {
+	text-align: center;
+}
+
+.services1 .service-item1 .icon1 {
+	background-color: #f7f7f7;
+	padding: 40px;
+}
+
+.services1 .service-item1 .icon1 i {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	text-align: center;
+	line-height: 100px;
+	background-color: #f33f3f;
+	color: #fff;
+	font-size: 32px;
+}
+
+.services1 .service-item1 .down-content1 {
+	background-color: #fff;
+	padding: 40px 30px;
+}
+
+.services1 .service-item1 .down-content1 h4 {
+	font-size: 17px;
+	color: #1a6692;
+	margin-bottom: 20px;
+}
+
+.services1 .service-item1 .down-content1 p {
+	margin-bottom: 25px;
+}
+.ragiua{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
